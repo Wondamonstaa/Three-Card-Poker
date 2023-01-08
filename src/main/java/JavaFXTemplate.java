@@ -1,14 +1,4 @@
-/*
-Project 2: Three Card Poker
-Name: Kiryl Baravikou
-Course: CS 342
-Semester: Fall 2022
-Instructor: Professor Hallenbeck
-Date: 10/31/2022
- */
-
 import java.util.ArrayList;
-
 import javafx.animation.*;
 import javafx.application.Application;
 import javafx.collections.FXCollections;
@@ -33,14 +23,12 @@ import javafx.scene.paint.Stop;
 import javafx.scene.text.*;
 import javafx.stage.Modality;
 import javafx.stage.Stage;
-
-//FIXME
-
 import javafx.scene.layout.BorderPane;
 import javafx.scene.layout.VBox;
 import javafx.scene.paint.Color;
 import javafx.scene.shape.Rectangle;
 import javafx.util.Duration;
+
 
 public class JavaFXTemplate extends Application {
 
